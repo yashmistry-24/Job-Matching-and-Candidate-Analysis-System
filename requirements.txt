@@ -1,0 +1,14 @@
+streamlit
+python-docx
+PyPDF2
+transformers
+torch
+faiss-cpu
+opencv-python
+numpy
+pandas
+nltk
+scikit-learn
+plotly
+seaborn
+matplotlib
