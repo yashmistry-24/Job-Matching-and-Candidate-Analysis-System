@@ -1,0 +1,38 @@
+Title: Data Analyst
+Location: Remote
+Job Type: Full-Time
+
+Responsibilities:
+Collect, organize, and analyze large datasets to identify trends, insights, and actionable recommendations.
+Design and maintain dashboards, reports, and visualizations for cross-functional teams.
+Perform data cleansing, transformation, and validation to ensure data accuracy and consistency.
+Collaborate with business stakeholders to define and measure key performance indicators (KPIs).
+Identify opportunities for automation and process improvement within data workflows.
+Communicate findings and insights through reports and presentations to non-technical audiences.
+
+Requirements:
+Experience: 2+ years
+Education: Bachelor's degree in Data Analytics, Statistics, Computer Science, or a related field.
+
+Technical Skills:
+Proficiency in SQL for data querying and manipulation.
+Experience with data visualization tools (Tableau, Power BI, or Looker).
+Familiarity with Python or R for data analysis and scripting.
+Strong understanding of Excel, including advanced formulas and pivot tables.
+
+Other Skills:
+Excellent problem-solving and analytical abilities.
+Strong written and verbal communication skills to present findings effectively.
+Ability to work independently and as part of a team in a fast-paced environment.
+
+Preferred Qualifications:
+Master's degree in a relevant field.
+Experience with big data technologies (e.g., Hadoop, Spark).
+Familiarity with cloud-based data platforms (AWS Redshift, Google BigQuery, or Azure Data Lake).
+Knowledge of statistical methods and predictive modeling techniques.
+
+Perks and Benefits:
+Competitive salary with performance bonuses.
+Flexible working hours and remote work opportunities.
+Health insurance and wellness programs.
+Professional development and learning reimbursements.
