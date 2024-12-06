@@ -5,6 +5,7 @@ transformers
 torch
 faiss-cpu
 opencv-python
+opencv-python-headless
 numpy
 pandas
 nltk
